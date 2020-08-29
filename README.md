@@ -19,8 +19,7 @@ You need a few about OOP.
        - Strings
        - Boleans
        - Runes
-       - String interpolation
-      -Loops(for, for in, while, do while), if else and switch
+       - Loops (for, for in, while, do while). conditionals (if else and switch)
       -Cating
        - Lists (known as Arrays as well)
        - Sets
